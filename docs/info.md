@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+TENs devices send electrical pulses through muscles to relieve pain. This project aims to control frequency of the pulses.
 
 ## How to test
 
-Explain how to use your project
+Enter different inputs and check against the output frequency.
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+An LED can be used to show the pulse difference.
